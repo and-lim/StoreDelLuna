@@ -62,6 +62,7 @@
     $(this).ekkoLightbox();
   });
 
+  
 
   // Count Down JS
   $('#simple-timer').syotimer({
